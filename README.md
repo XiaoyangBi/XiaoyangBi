@@ -1,12 +1,8 @@
 <div align="center">
-
+  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+XiaoyangBi)](https://git.io/typing-svg)
-  <a href="https://bixiaoyang.pages.dev/">
-    <img src="https://img.shields.io/badge/My%20Homepage-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/XiaoyangBi?tab=repositories">
-    <img src="https://img.shields.io/badge/My%20Repositories-FFD700?style=for-the-badge&logo=code&logoColor=black" />
-  </a>
+  
+  <a href="https://bixiaoyang.pages.dev/"><img src="https://img.shields.io/badge/My%20Homepage-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" /></a><a href="https://github.com/XiaoyangBi?tab=repositories"><img src="https://img.shields.io/badge/My%20Repositories-FFD700?style=for-the-badge&logo=code&logoColor=black" /></a>
 </div>
 
 ### 🚀 About Me
